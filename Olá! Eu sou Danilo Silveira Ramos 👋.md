@@ -1,6 +1,6 @@
-# Olá! Eu sou [Seu Nome Aqui] 👋
+# Olá! Eu sou Danilo Silveira Ramos👋
 
-### Engenheiro de Software em Formação | Especialista em Sistemas Embarcados e Estruturas de Dados
+### Engenheiro de Computação em Formação | Especialista em Sistemas Embarcados e Estruturas de Dados
 
 Seja bem-vindo(a) ao meu portfólio de projetos acadêmicos e pessoais. Sou um estudante apaixonado por **solução de problemas complexos**, com foco em **programação de baixo nível**, **sistemas embarcados** e **algoritmos de alta performance**.
 
@@ -36,8 +36,8 @@ Estes projetos demonstram minha capacidade de aplicar teoria em soluções prát
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | [Seu Perfil do LinkedIn Aqui] |
-| **Email** | [Seu Email Profissional Aqui] |
+| **LinkedIn** | https://www.linkedin.com/in/danilo-silveira-ramos-6a1908291/ |
+| **Email** | danilo.s.ramos@grad.ufsc.br |
 
 > **Próximos Passos:** Estou sempre buscando aprimorar minhas habilidades e aplicar meus conhecimentos em projetos desafiadores. Sinta-se à vontade para explorar meus repositórios e entrar em contato!
 
