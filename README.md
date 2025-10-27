@@ -36,7 +36,7 @@ Estes projetos demonstram minha capacidade de aplicar teoria em soluções prát
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | https://www.linkedin.com/in/danilo-silveira-ramos-6a1908291/ |
+| **LinkedIn** | https://www.linkedin.com/in/danilo-silveira-ramos/ |
 | **Email** | danilo.s.ramos@grad.ufsc.br |
 
 > **Próximos Passos:** Estou sempre buscando aprimorar minhas habilidades e aplicar meus conhecimentos em projetos desafiadores. Sinta-se à vontade para explorar meus repositórios e entrar em contato!
