@@ -1,43 +1,36 @@
-# Olá! Eu sou Danilo Silveira Ramos👋
+# Hello! I'm Danilo Silveira Ramos 👋
 
-### Engenheiro de Computação em Formação | Especialista em Sistemas Embarcados e Estruturas de Dados
+### Computer Engineering Student | Specialist in Embedded Systems and Data Structures
 
-Seja bem-vindo(a) ao meu portfólio de projetos acadêmicos e pessoais. Sou um estudante apaixonado por **solução de problemas complexos**, com foco em **programação de baixo nível**, **sistemas embarcados** e **algoritmos de alta performance**.
+Welcome to my portfolio of academic and personal projects. I am a student passionate about **solving complex problems**, with a focus on **low-level programming**, **embedded systems**, and **high-performance algorithms**.
 
-Minha experiência abrange desde o design de hardware digital com VHDL até a implementação de estruturas de dados complexas em C++ e o desenvolvimento de aplicações desktop com interface gráfica.
+My experience ranges from digital hardware design with VHDL to the implementation of complex data structures in C++ and the development of desktop applications with a graphical interface.
 
----
+## 🛠️ Technical Skills
 
-## 🛠️ Habilidades Técnicas
+| Category | Technologies and Concepts |
+| :-- | :-- |
+| **Languages** | **C** (Advanced), **C++** (OOP, Templates), VHDL, Assembly (Microcontrollers) |
+| **Data Structures** | AVL Trees, Hash Tables, Linked Lists |
+| **Embedded Systems** | Microcontroller Programming (PIC/AVR), Control Logic, Simulation (Proteus) |
+| **Development** | Object-Oriented Programming (OOP), Qt Framework (GUI), Git/GitHub |
 
-| Categoria | Tecnologias e Conceitos |
-| :--- | :--- |
-| **Linguagens** | **C** (Avançado), **C++** (POO, Templates), VHDL, Assembly (Microcontroladores) |
-| **Estruturas de Dados** | Árvores AVL, Tabelas de Espalhamento (Hash), Listas Encadeadas |
-| **Sistemas Embarcados** | Programação de Microcontroladores (PIC/AVR), Lógica de Controle, Simulação (Proteus) |
-| **Desenvolvimento** | Programação Orientada a Objetos (POO), Qt Framework (GUI), Git/GitHub |
+## 🌟 Featured Projects
 
----
+These projects demonstrate my ability to apply theory to practical and robust solutions.
 
-## 🌟 Projetos em Destaque
+| Project | Main Technology | Focus and Highlight | Repository |
+| :-- | :-- | :-- | :-- |
+| **Aeronautical Anti-Icing System** | C, Embedded Systems | Complex **control logic** project for simulating an aircraft de-icing system (Hardware/Software co-design). | [aeronautical-anti-icing-system]() |
+| **AVL Tree in C++** | C++, Data Structures | Complete implementation of a **Self-Balancing Binary Search Tree (AVL)**, demonstrating proficiency in balancing algorithms and recursion. | [arvore-avl-cpp]() |
+| **Type Tracker** | C++, Qt Framework | Complete desktop application with a **Graphical User Interface (GUI)** to test typing speed, showcasing software development and Qt skills. | [type-tracker-qt]() |
+| **Employee Manager** | C, Linked List | Practical system that uses **linked lists** and **binary file handling** for data persistence. | [gerenciador-funcionarios-c]() |
 
-Estes projetos demonstram minha capacidade de aplicar teoria em soluções práticas e robustas.
+## 🔗 Connect With Me
 
-| Projeto | Tecnologia Principal | Foco e Destaque | Repositório |
-| :--- | :--- | :--- | :--- |
-| **Sistema Aeronáutico Antigelo** | C, Sistemas Embarcados | Projeto complexo de **lógica de controle** para simulação de um sistema de degelo de aeronaves (Hardware/Software co-design). | [sistema-antigelo-aeronautico](https://github.com/[Seu-Usuario]/sistema-antigelo-aeronautico) |
-| **Árvore AVL em C++** | C++, Estruturas de Dados | Implementação completa de uma **Árvore Binária de Busca Auto-Balanceável (AVL)**, demonstrando proficiência em algoritmos de balanceamento e recursão. | [arvore-avl-cpp](https://github.com/[Seu-Usuario]/arvore-avl-cpp) |
-| **Type Tracker** | C++, Qt Framework | Aplicação desktop completa com **Interface Gráfica (GUI)** para testar velocidade de digitação, mostrando habilidades em desenvolvimento de software e Qt. | [type-tracker-qt](https://github.com/[Seu-Usuario]/type-tracker-qt) |
-| **Gerenciador de Funcionários** | C, Lista Encadeada | Sistema prático que utiliza **listas encadeadas** e **manipulação de arquivos binários** para persistência de dados. | [gerenciador-funcionarios-c](https://github.com/[Seu-Usuario]/gerenciador-funcionarios-c) |
+| Platform | Link |
+| :-- | :-- |
+| **LinkedIn** | [https://www.linkedin.com/in/danilo-silveira-ramos/]() |
+| **Email** | [danilo.s.ramos@grad.ufsc.br]() |
 
----
-
-## 🔗 Conecte-se Comigo
-
-| Plataforma | Link |
-| :--- | :--- |
-| **LinkedIn** | https://www.linkedin.com/in/danilo-silveira-ramos/ |
-| **Email** | danilo.s.ramos@grad.ufsc.br |
-
-> **Próximos Passos:** Estou sempre buscando aprimorar minhas habilidades e aplicar meus conhecimentos em projetos desafiadores. Sinta-se à vontade para explorar meus repositórios e entrar em contato!
-
+> **Next Steps:** I am always looking to improve my skills and apply my knowledge to challenging projects. Feel free to explore my repositories and get in touch!
