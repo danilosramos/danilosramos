@@ -7,21 +7,22 @@ Welcome to my portfolio of academic and personal projects. I am a student passio
 
 My experience ranges from digital hardware design with VHDL to the implementation of complex data structures in C++ and the development of desktop applications with a graphical interface.
 
-# 💻 Tech Stack:
+# 🧰 Languages and Tools:
 
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
-[![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
-[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
+[<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" />](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>](https://isocpp.org/)
+[<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />](https://www.oracle.com/java/)
+[<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />](https://www.python.org/)
+[<img align="left" alt="Assembly" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" />](https://en.wikipedia.org/wiki/Assembly_language)
+[<img align="left" alt="Qt" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" />](https://www.qt.io)
+[<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />](https://www.postgresql.org/)
+[<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />](https://aws.amazon.com/)
+[<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />](https://www.docker.com/)
+[<img align="left" alt="Markdown" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=21827&format=png&color=FFFFFF"/>](https://www.markdownguide.org/)
+[<img align="left" alt="LaTeX" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/png-shadow-512/LaTeX.png" />](https://www.latex-project.org/)
+[<img align="left" alt="Unreal Engine" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />](https://www.unrealengine.com/)
+<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosramos&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=danilosramos&theme=discord_old_blurple&hide_border=false)<br/> 
