@@ -7,7 +7,6 @@ Welcome to my portfolio of academic and personal projects. I am a student passio
 
 My experience ranges from digital hardware design with VHDL to the implementation of complex data structures in C++ and the development of desktop applications with a graphical interface.
 
-
 # 💻 Tech Stack:
 
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
@@ -24,12 +23,8 @@ My experience ranges from digital hardware design with VHDL to the implementatio
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
 
-
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosramos&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-     ![](https://nirzak-streak-stats.vercel.app/?user=danilosramos&theme=discord_old_blurple&hide_border=false)<br/> 
-
-
+![](https://nirzak-streak-stats.vercel.app/?user=danilosramos&theme=discord_old_blurple&hide_border=false)<br/> 
 
 ---
 
