@@ -21,7 +21,9 @@ My experience ranges from digital hardware design with VHDL to the implementatio
 [<img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />](https://www.docker.com/)
 [<img align="left" alt="Markdown" width="40px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=21827&format=png&color=FFFFFF"/>](https://www.markdownguide.org/)
 [<img align="left" alt="LaTeX" width="40px" style="padding-right:10px;" src="https://icon.icepanel.io/Technology/png-shadow-512/LaTeX.png" />](https://www.latex-project.org/)
-[<img align="left" alt="Unreal Engine" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />](https://www.unrealengine.com/)<br><br>
+[<img align="left" alt="Unreal Engine" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />](https://www.unrealengine.com/)
+<br />
+<br />
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danilosramos&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=danilosramos&theme=discord_old_blurple&hide_border=false)<br/> 
