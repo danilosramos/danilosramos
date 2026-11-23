@@ -12,7 +12,6 @@ My experience ranges from digital hardware design with VHDL to the implementatio
 [<img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original.svg" />](https://en.wikipedia.org/wiki/C_(programming_language))
 [<img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>](https://isocpp.org/)
 [<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />](https://www.oracle.com/java/)
-[<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />](https://www.python.org/)
 [<img align="left" alt="Assembly" width="40px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" />](https://en.wikipedia.org/wiki/Assembly_language)
 [<img align="left" alt="Qt" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" />](https://www.qt.io)
 [<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
